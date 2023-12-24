@@ -1,2 +1,2 @@
-Raw data file is too big to upload, please refer to this link to access: https://drive.google.com/drive/folders/1Y44lMaqine2asXE0784lKPj2Ry5efe7k?usp=sharing
+Raw data file is too big to upload, please refer to this link to access: https://drive.google.com/drive/folders/1Y44lMaqine2asXE0784lKPj2Ry5efe7k?usp=sharing                    
 And to access the 'dashboard', type 'jupyter lab' in anaconda prompt and run it, then find open it and then copy the csv/excel/pickle file location of the dataset and then convert it to dataframe using pd.read_csv/excel (or) use pickle read. Then run the below codes available in the 'dashboard' and then you will be able to access an interactive dashboard for the columns available in the dataset.
